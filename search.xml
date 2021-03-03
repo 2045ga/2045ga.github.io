@@ -92,6 +92,21 @@
 ]]></content>
   </entry>
   <entry>
+    <title>english</title>
+    <url>/2021/03/03/english/</url>
+    <content><![CDATA[<p>我日了狗了,还有人真想读博士，真好</p>
+<p>&lt;——&gt;</p>
+<p>hexo nexit主题 显示文章摘要</p>
+<p>在需要截断的地方加入：</p>
+<span id="more"></span>
+
+<p>首页就会显示这条以上的所有内容，隐藏接下来的所有内容。<br>例如本文会显示到修改配置上面。</p>
+<p>这个明显就方便很多，但当然有利有弊，比如开头都是废话首页看着就不是很好看，因此我一般会先选择方法二，如果感觉文章前面的写的不太好再用方法一。</p>
+<p>title: 让首页显示部分内容<br>date: 2020-02-23 22:55:10<br>description: 这是显示在首页的概述，正文内容均会被隐藏。</p>
+<p>比较不方便的是还得写一下概述，很多时候会懒得写概述，于是就需要第二种方法了。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/02/28/hello-world/</url>
     <content><![CDATA[<p>常用命令：hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p>
@@ -114,6 +129,22 @@
     <title>hexo admin测试</title>
     <url>/2021/02/28/hexo-admin%E6%B5%8B%E8%AF%95-1/</url>
     <content><![CDATA[<h1 id="admin的方式更好"><a href="#admin的方式更好" class="headerlink" title="admin的方式更好"></a>admin的方式更好</h1><p>包括很多管理插件 hexo admin</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>放纵生活</title>
+    <url>/2021/03/01/%E6%94%BE%E7%BA%B5%E7%94%9F%E6%B4%BB/</url>
+    <content><![CDATA[<p>我日了狗了,还有人真想读博士，真好</p>
+<p>&lt;——&gt;</p>
+<p>hexo nexit主题 显示文章摘要</p>
+<p>在需要截断的地方加入：</p>
+<span id="more"></span>
+
+<p>首页就会显示这条以上的所有内容，隐藏接下来的所有内容。<br>例如本文会显示到修改配置上面。</p>
+<p>这个明显就方便很多，但当然有利有弊，比如开头都是废话首页看着就不是很好看，因此我一般会先选择方法二，如果感觉文章前面的写的不太好再用方法一。</p>
+<p>title: 让首页显示部分内容<br>date: 2020-02-23 22:55:10<br>description: 这是显示在首页的概述，正文内容均会被隐藏。</p>
+<p>比较不方便的是还得写一下概述，很多时候会懒得写概述，于是就需要第二种方法了。</p>
+<p>123</p>
 ]]></content>
   </entry>
 </search>
